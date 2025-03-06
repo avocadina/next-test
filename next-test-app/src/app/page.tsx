@@ -1,7 +1,5 @@
-import HomePage from "~/pages-components/homepage/ui";
+import HomePage from "~/src/pages-components/homepage/ui";
 
 export default function Home() {
-  return (
-    <HomePage />
-  );
+  return <HomePage />;
 }

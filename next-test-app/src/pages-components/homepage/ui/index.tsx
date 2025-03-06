@@ -1,11 +1,12 @@
 import React from "react";
 
+import Header from "~/src/shared/ui/header/ui";
+
 export default function HomePage() {
-    return (
-        <div className="row">
-            <h1 className="text">
-                HomePage
-            </h1>
-        </div>
-    )
+  return (
+    <div className="row">
+      <Header />
+      <h1>Home page</h1>
+    </div>
+  );
 }

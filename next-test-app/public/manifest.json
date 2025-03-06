@@ -1,0 +1,22 @@
+{
+	"short_name": "WinWise",
+	"name": "WinWise",
+	"icons": [
+		{
+			"src": "page-icon.png",
+            "sizes": "192x192",
+			"type": "image/png"
+		},
+        {
+			"src": "page-icon.png",
+            "sizes": "16x16, 32x32",
+			"type": "image/png"
+		}
+	],
+	"start_url": ".",
+	"display": "standalone",
+    "background-color": "#202020",
+	"permissions": {
+		"media": ["video-capture", "audio-capture", "video", "audio", "image"]
+	}
+}
