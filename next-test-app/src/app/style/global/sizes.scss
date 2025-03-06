@@ -1,3 +1,5 @@
+@import "~/src/app/style/global/colors.scss";
+
 //padding, margin, gap etc
 $space-0: 2px;
 $space-1: 4px;
@@ -10,3 +12,8 @@ $space-7: 28px;
 $space-8: 32px;
 $space-9: 36px;
 $space-10: 40px;
+
+
+// border
+$border-yellow: 1px solid $light-yellow;
+$radius: 8px;

@@ -1,0 +1,25 @@
+.button {
+	justify-content: center;
+	align-items: center;
+	transition: all 0.5s;
+	padding: $space-3 $space-5;
+	border-radius: $radius;
+	cursor: pointer;
+}
+
+.dark {
+	background-color: transparent;
+	color: $light-yellow;
+	outline: $border-yellow;
+	border-radius: $radius;
+
+	&:hover {
+		background-color: $light-yellow;
+		color: $almost-black;
+	}
+}
+
+
+.regular {
+	min-height: 48px;
+}

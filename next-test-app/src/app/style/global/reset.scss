@@ -1,9 +1,17 @@
+@import "~/src/app/style/global/vars.scss";
+@import "~/src/app/style/global/sizes.scss";
+@import "~/src/app/style/global/colors.scss";
+
 *,
 *::before,
 *::after {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+}
+
+* {
+  font-family: $font-family
 }
 
 html {
@@ -16,6 +24,11 @@ html {
 ul,
 ol {
   list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+p {
   margin: 0;
   padding: 0;
 }

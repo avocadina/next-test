@@ -1,6 +1,7 @@
 import React from "react";
 
 import classes from "./header.module.scss";
+import { Button } from "~/src/shared/ui/button";
 
 export default function Header() {
   return (
@@ -13,6 +14,12 @@ export default function Header() {
           <li>Contacts</li>
         </ul>
       </nav>
+      <Button 
+        typeButton="dark"
+        size="regular"
+      >
+        <p className={`uppercase`}>Заказать услугу</p>
+      </Button>
     </div>
   );
 }

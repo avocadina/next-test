@@ -1,6 +1,6 @@
 import React from "react";
 
-import Header from "~/src/shared/ui/header/ui";
+import Header from "~/src/shared/ui/header";
 
 export default function HomePage() {
   return (

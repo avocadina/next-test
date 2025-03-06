@@ -3,6 +3,8 @@ import type { Metadata } from "next";
 import "swiper/css";
 import "~/src/app/style/global/template.scss";
 import "~/src/app/style/global/reset.scss";
+import "~/src/app/style/global/vars.scss";
+import "~/src/app/style/global/text.scss";
 
 export const metadata: Metadata = {
   title: "App",

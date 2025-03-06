@@ -1,0 +1,154 @@
+@font-face {
+    font-family: 'Inter', sans-serif;
+    src:
+        local('Inter Regular'),
+        local('Inter-Regular'), 
+        url('../fonts/Inter-Regular.woff2') format('woff2'),
+        url('../fonts/Inter-Regular.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+    font-display: wrap;
+}
+
+@font-face {
+    font-family: 'Inter', sans-serif;
+    src:
+        local('Inter Bold'),
+        local('Inter-Bold'), 
+        url('../fonts/Inter-Bold.woff2') format('woff2'),
+        url('../fonts/Inter-Bold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+    font-display: wrap;
+}
+
+@font-face {
+    font-family: 'Inter', sans-serif;
+    src:
+        local('Inter Medium'),
+        local('Inter-Medium'), 
+        url('../fonts/Inter-Medium.woff2') format('woff2'),
+        url('../fonts/Inter-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: wrap;
+}
+
+@font-face {
+    font-family: 'Druk Cyr', sans-serif;
+    src:
+        local('DrukCyr Bold'),
+        local('DrukCyr-Bold'), 
+        url('../fonts/DrukCyr-Bold.woff2') format('woff2'),
+        url('../fonts/DrukCyr-Bold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+    font-display: wrap;
+}
+
+@font-face {
+    font-family: 'Druk Cyr', sans-serif;
+    src:
+        local('DrukCyr BoldItalic'),
+        local('DrukCyr-BoldItalic'), 
+        url('../fonts/DrukCyr-BoldItalic.woff2') format('woff2'),
+        url('../fonts/DrukCyr-BoldItalic.woff') format('woff');
+    font-weight: 700;
+    font-style: italic;
+    font-display: wrap;
+}
+
+@font-face {
+    font-family: 'Inter', sans-serif;
+    src:
+        local('Inter SemiBold'),
+        local('Inter-SemiBold'), 
+        url('../fonts/Inter-SemiBold.woff2') format('woff2'),
+        url('../fonts/Inter-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: wrap;
+}
+
+@font-face {
+    font-family: 'Inter', sans-serif;
+    src:
+        local('Inter ExtraBold'),
+        local('Inter-ExtraBold'), 
+        url('../fonts/Inter-ExtraBold.woff2') format('woff2'),
+        url('../fonts/Inter-ExtraBold.woff') format('woff');
+    font-weight: 800;
+    font-style: normal;
+    font-display: wrap;
+}
+
+@font-face {
+    font-family: 'Druk Cyr', sans-serif;
+    src:
+        local('DrukCyr MediumItalic'),
+        local('DrukCyr-MediumItalic'), 
+        url('../fonts/DrukCyr-MediumItalic.woff2') format('woff2'),
+        url('../fonts/DrukCyr-MediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: wrap;
+}
+
+@font-face {
+    font-family: 'Raleway', sans-serif;
+    src:
+        local('Raleway Bold'),
+        local('Raleway-Bold'), 
+        url('../fonts/Raleway-Bold.ttf') format('truetype'),
+        url('../fonts/Raleway-Bold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+    font-display: wrap;
+}
+
+@font-face {
+    font-family: 'Raleway', sans-serif;
+    src:
+        local('Raleway Medium'),
+        local('Raleway-Medium'), 
+        url('../fonts/Raleway-Medium.ttf') format('truetype'),
+        url('../fonts/Raleway-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: wrap;
+}
+
+@font-face {
+    font-family: 'MADE Evolve Sans', sans-serif;
+    src:
+        local('MADEEvolveSans Bold'),
+        local('MADEEvolveSans-Bold'), 
+        url('../fonts/MADEEvolveSans-Bold.woff') format('woff2'),
+        url('../fonts/MADEEvolveSans-Bold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+    font-display: wrap;
+}
+
+@font-face {
+    font-family: 'Futura PT', sans-serif;
+    src:
+        local('FuturaPT Bold'),
+        local('FuturaPT-Bold'), 
+        url('../fonts/FuturaPT-Bold.woff2') format('woff2'),
+        url('../fonts/FuturaPT-Bold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+    font-display: wrap;
+}
+
+@font-face {
+    font-family: 'Transforma Mix_Trial', sans-serif;
+    src:
+        local('TransformaMix_Trial Medium'),
+        local('TransformaMix_Trial-Medium'), 
+        url('../fonts/TransformaMix_Trial-Medium.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: wrap;
+}
